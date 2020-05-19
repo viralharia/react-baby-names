@@ -2,7 +2,7 @@
 
 A React app to find inspiration for baby names.
 
-![app screenshot](screenshot.png)
+![app screenshot](./screenshot.PNG)
 
 I have deployed the app as a github page.
 
